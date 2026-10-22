@@ -53,7 +53,7 @@ To keep it apart from a regular install, use a separate config directory:
 Git workflow
 ------------
 - `origin` = this fork, `upstream` = d99kris/nchat.
-- `master` tracks upstream; each feature on its own branch (`feat/audio-inline`).
+- `main` tracks upstream `master`; each feature on its own branch (`feat/audio-inline`).
 - Update: `git fetch upstream && git rebase upstream/master` on the branch.
 
 Contributors
