@@ -1,5 +1,13 @@
-nchat
-=====
+nchat (media fork)
+==================
+
+This is an **unofficial fork** of [d99kris/nchat](https://github.com/d99kris/nchat),
+not affiliated with the upstream project. Please report issues with this fork
+[here](https://github.com/jaopdc11/nchat/issues), not upstream.
+
+Goal: richer media in the terminal — inline audio playback, images, stickers
+and video previews, starting with WhatsApp. See [FORK.md](/FORK.md) for the
+roadmap and development setup.
 
 | **Linux** | **Mac** |
 |-----------|---------|
